@@ -1,1 +1,18 @@
-Tushar
+git —version
+
+cd /directory/path
+
+git init
+
+copy “git remote add” command form website
+
+git status
+
+git add (AllFiles)
+
+git commit -m “Your_Message”
+
+git push -u origin master
+
+//—— for change in project, how to push changes to git
+
