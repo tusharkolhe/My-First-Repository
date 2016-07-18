@@ -4,6 +4,9 @@ cd /directory/path
 
 git init
 
+git config user.name “Tushar Kolhe”
+git config user.email tushar.kolhe01@gmail.com
+
 copy “git remote add” command form website
 
 git status
@@ -16,3 +19,14 @@ git push -u origin master
 
 //—— for change in project, how to push changes to git
 
+
+git add (newFile_name)
+
+git commit -m “Message_For_Changes”
+
+git push
+
+//how to config git
+
+git config user.name “Tushar Kolhe”
+git config user.email tushar.kolhe01@gmail.com
